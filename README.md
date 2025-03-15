@@ -19,7 +19,7 @@ Congratulations you found the first one!
 
 
 ## 👋 Hi, I'm Deestarling!
-<img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
+<img align="right" width="350" src="https://github.com/darvannetapayan/darvannetapayan/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
 ### 🏫 Education  
 - 🎓 **Cagayan de Oro City College - Carmen**  
@@ -38,7 +38,7 @@ Congratulations you found the first one!
 
 <h2 align="center"></h2>
 
-<img align="left" width="180" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
+<img align="left" width="180" src="https://github.com/darvannetapayan/darvannetapayan/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
 
@@ -59,7 +59,7 @@ Congratulations you found the first one!
 
 ### Languages and Tools 🛠 
 
-<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvannetapayan&theme=react&line_height=10&hide=css"/>
 
 Programming Languages
 <img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
@@ -73,7 +73,7 @@ Programming Languages
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px" height="30px" title="MySQL" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30px" height="30px" title="MongoDB" />
 </div>
-<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="mihkuno SO profile">
+<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="darvabbetaoayan SO profile">
 
 Frameworks & Libraries
 <div align='left'>
@@ -105,7 +105,7 @@ Tools & Technologies
 <div>  
   <a href=""> 
     <img align="right" width="380" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarvanneTapayan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
   </a>
   
   
