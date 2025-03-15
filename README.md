@@ -9,7 +9,7 @@ Congratulations you found the first one!
 <br>
 
 <div align="right">
-  <a href="https://www.codewars.com/users/mihkuno">
+  <a href="https://www.codewars.com/users/DarvanneTapayan">
     <img align="left" src="https://www.codewars.com/users/mihkuno/badges/small" alt="Codewars Badge" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mihkuno.mihkuno" alt="Visitors" />
