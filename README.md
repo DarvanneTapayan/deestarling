@@ -19,7 +19,7 @@ Congratulations you found the first one!
 
 
 ## 👋 Hi, I'm Deestarling!
-<img align="right" width="350" src="https://github.com/darvannetapayan/darvannetapayan/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
+<img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
 ### 🏫 Education  
 - 🎓 **Cagayan de Oro City College - Carmen**  
