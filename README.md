@@ -62,7 +62,6 @@ Congratulations you found the first one!
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvannetapayan&theme=react&line_height=10&hide=css"/>
 
 Programming Languages
-<img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
 <div align='left'>
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30px" height="30px" title="TypeScript" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" height="30px" title="JavaScript" />
@@ -73,7 +72,6 @@ Programming Languages
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px" height="30px" title="MySQL" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30px" height="30px" title="MongoDB" />
 </div>
-<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="darvabbetaoayan SO profile">
 
 Frameworks & Libraries
 <div align='left'>
@@ -101,14 +99,6 @@ Tools & Technologies
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" height="30px" title="Linux" />
 </div>
 
-
-<div>  
-  <a href=""> 
-    <img align="right" width="380" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarvanneTapayan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
-  </a>
-  
-  
 <div align="left">
     <h5>Fun fact: I solved the world's oldest question with a single line of Javascript code</h5>
   <!-&nbspwi*quL3fcV -->
