@@ -10,10 +10,10 @@ Congratulations you found the first one!
 
 <div align="right">
   <a href="https://www.codewars.com/users/DarvanneTapayan">
-    <img align="left" src="https://www.codewars.com/users/mihkuno/badges/small" alt="Codewars Badge" />
+    <img align="left" src="https://www.codewars.com/users/DarvanneTapayan/badges/small" alt="Codewars Badge" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mihkuno.mihkuno" alt="Visitors" />
-  <img src="https://komarev.com/ghpvc/?username=mihkuno&color=brightgreen" alt="watching_count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DarvanneTapayan.DarvanneTapayan" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=DarvanneTapayan&color=brightgreen" alt="watching_count" />
 </div>
 
 
